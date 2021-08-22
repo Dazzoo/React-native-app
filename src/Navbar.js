@@ -20,7 +20,8 @@ const styles = StyleSheet.create({
     NavbarText: {
         fontSize: 17,
         color: 'white',
-        paddingBottom: 7
+        paddingBottom: 7,
+        fontFamily: 'OpenSans-Light'
     }
 })
 
